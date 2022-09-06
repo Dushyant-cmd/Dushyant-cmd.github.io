@@ -1643,6 +1643,10 @@ input, select, textarea {
 					margin-top: -5px;
 					margin-left: -5px;
 				}
+			
+			.container .row .col-4 video {
+                        width: 100%;
+                        }
 
 					.row.gtr-25 > * {
 						padding: 5px 0 0 5px;
